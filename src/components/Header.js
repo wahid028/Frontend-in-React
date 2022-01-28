@@ -7,7 +7,7 @@ function Header() {
         <div className="container d-flex align-items-center">
           <h1 className="logo me-auto">
             <a href="index.html">
-              <span>Com</span>pany
+              <span>Nfini.</span>Tech
             </a>
           </h1>
 
@@ -33,7 +33,7 @@ function Header() {
                   <li>
                     <a href="testimonials.html">Testimonials</a>
                   </li>
-                  <li className="dropdown">
+                  {/* <li className="dropdown">
                     <a href="#">
                       <span>Deep Drop Down</span>{" "}
                       <i className="bi bi-chevron-right"></i>
@@ -55,7 +55,7 @@ function Header() {
                         <a href="#">Deep Drop Down 5</a>
                       </li>
                     </ul>
-                  </li>
+                  </li> */}
                 </ul>
               </li>
 
